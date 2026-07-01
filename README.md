@@ -1,5 +1,7 @@
 # Imaginify - AI SaaS Platform
 
+**[🔴 Live Demo](https://imaginify-application1.vercel.app/)**
+
 Imaginify is a cutting-edge AI SaaS platform built with Next.js 14 that offers advanced image processing capabilities. Users can restore old images, perform generative fill, remove objects, recolor objects, and remove backgrounds using AI. It features a robust credit system for usage limits, secure authentication, and seamless payments.
 
 ## 🚀 Features
