@@ -1,6 +1,21 @@
 # Imaginify - AI SaaS Platform
 
-**[🔴 Live Demo](https://imaginify-application1.vercel.app/)**
+<div align="center">
+  <br />
+  <a href="https://imaginify-application1.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🔴_Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+  </a>
+  <br />
+  <br />
+  
+  ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
+  ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
+</div>
 
 Imaginify is a cutting-edge AI SaaS platform built with Next.js 14 that offers advanced image processing capabilities. Users can restore old images, perform generative fill, remove objects, recolor objects, and remove backgrounds using AI. It features a robust credit system for usage limits, secure authentication, and seamless payments.
 
